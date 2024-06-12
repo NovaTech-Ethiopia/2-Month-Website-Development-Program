@@ -70,8 +70,6 @@ Embark on your web development journey today and take the first step towards bec
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - [CSS Tutorial - Zero to Hero (Complete Course)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 
-### Day 2: CSS Continued (1 hour)
-
 ### Day 2: CSS Continued
 - 1 hour: Box model: margin, border, padding, content
 - 1 hour: Styling text: font-family, font-size, color, text-align

@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here, you'll find a structured 2-month web develop
 
 ### Why we Created This:
 
-As a passionate developer who started their journey with limited resources, I understand the importance of having access to free and structured learning materials. I created this program to provide beginners with a roadmap to kickstart their journey into web development without the need for expensive courses or bootcamps.
+As a passionate developer who started their journey with limited resources, we understand the importance of having access to free and structured learning materials. we created this program to provide beginners with a roadmap to kickstart their journey into web development without the need for expensive courses or bootcamps.
 
 ### How to Get Started:
 

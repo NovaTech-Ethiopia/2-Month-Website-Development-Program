@@ -1,6 +1,32 @@
 # 2-Month Website Development Program
 
 Welcome to the 2-Month Website Development Program! This program is designed to teach you the fundamentals of HTML, CSS, JavaScript, Git, and GitHub. You'll be learning and coding three hours a day, three days a week. By the end of this program, you will have a solid understanding of web development basics and version control with Git and GitHub, and will have created several projects to showcase your skills.
+Welcome to my GitHub profile! Here, you'll find a structured 2-month web development program designed for beginners. This program is curated to provide a comprehensive learning path for individuals interested in diving into web development without prior experience.
+
+### What You'll Find Here:
+
+- **Structured Learning Resources**: Explore a curated collection of free resources, including tutorials, articles, and YouTube videos, organized into a 2-month timeline.
+- **Step-by-Step Program**: Follow a detailed week-by-week breakdown, with three days of learning each week, to gradually build your skills in HTML, CSS, JavaScript, Git, and GitHub.
+- **Project Ideas**: Discover project ideas for each week, allowing you to apply your newly acquired skills in practical scenarios and build a portfolio of web development projects.
+- **Learning Objectives**: Gain a clear understanding of the learning objectives for each week, helping you track your progress and stay focused on your learning goals.
+
+### Why I Created This:
+
+As a passionate developer who started their journey with limited resources, I understand the importance of having access to free and structured learning materials. I created this program to provide beginners with a roadmap to kickstart their journey into web development without the need for expensive courses or bootcamps.
+
+### How to Get Started:
+
+1. **Explore the Repository**: Take a look at the README file to get an overview of the program structure and learning resources available.
+2. **Follow the Program**: Start with Week 1 and progress through each week, dedicating three hours per day, three days a week, to learning and practicing.
+3. **Engage with the Community**: Feel free to engage with other learners in the GitHub community, ask questions, and share your progress and insights.
+4. **Contribute and Improve**: This repository is open to contributions. If you have suggestions for additional resources or improvements to the program, please feel free to submit a pull request.
+
+### Let's Get Started!
+
+Embark on your web development journey today and take the first step towards becoming a proficient developer. Remember, persistence and practice are key to mastering any skill. Happy coding!
+
+---
+
 
 ## Table of Contents
 - [Week 1](#week-1)

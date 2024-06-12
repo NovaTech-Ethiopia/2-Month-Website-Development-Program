@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here, you'll find a structured 2-month web develop
 - **Project Ideas**: Discover project ideas for each week, allowing you to apply your newly acquired skills in practical scenarios and build a portfolio of web development projects.
 - **Learning Objectives**: Gain a clear understanding of the learning objectives for each week, helping you track your progress and stay focused on your learning goals.
 
-### Why I Created This:
+### Why we Created This:
 
 As a passionate developer who started their journey with limited resources, I understand the importance of having access to free and structured learning materials. I created this program to provide beginners with a roadmap to kickstart their journey into web development without the need for expensive courses or bootcamps.
 
